@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C24,C27,C25,C26,C28";"C_0603_1608Metric";5;"1u";;;
+2;"R11,R5,R3,R8,R9,R7,R10";"R_0603_1608Metric";7;"47k";;;
+3;"C12,C18,C19,C22,C13,C20,C16,C15,C14,C21,C17,C23";"C_0603_1608Metric";12;"1n";;;
+4;"J1";"BarrelJack_Horizontal";1;"Jack-DC";;;
+5;"C10,C11,C9,C8";"C_1206_3216Metric";4;"220n";;;
+6;"L4,L2,L1,L3";"L_Bourns_SRN6045TA";4;"10u";;;
+7;"J3";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"L";;;
+8;"U1";"HTSSOP-32-1EP_6.1x11mm_P0.65mm_EP5.2x11mm_Mask4.11x4.36mm_ThermalVias";1;"TPA3130D2";;;
+9;"R6,R2,R4,R1";"R_0603_1608Metric";4;"3R3";;;
+10;"J4";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"R";;;
+11;"C7,C6,C1,C4,C2,C5,C3";"C_0603_1608Metric";7;"220u";;;
+12;"J2";"Jack_3.5mm_CUI_SJ1-3533NG_Horizontal";1;"AudioJack3";;;
